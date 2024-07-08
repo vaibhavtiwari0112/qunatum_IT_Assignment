@@ -1,0 +1,11 @@
+.contact-img {
+  max-width: 40%;
+  height: auto;
+  margin-right: 40px;
+}
+
+.contact-form {
+  max-width: 600px;
+  width: 100%;
+  border-color: gray;
+}

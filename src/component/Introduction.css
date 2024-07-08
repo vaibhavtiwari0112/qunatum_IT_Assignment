@@ -1,0 +1,67 @@
+.introduction-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.introduction-content {
+  flex: 1;
+  max-width: 600px;
+}
+
+.colorful-heading {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.purple-text {
+  color: #8a2be2; /* Purple color */
+}
+
+.orange-text {
+  color: #ffa500; /* Orange color */
+}
+
+.introduction-content p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-purple {
+  color: white;
+  background-color: #8a2be2; /* Purple color */
+  border-color: #8a2be2; /* Purple color */
+}
+
+.btn-white {
+  color: #8a2be2; /* Purple color */
+  background-color: transparent;
+  border-color: #8a2be2; /* Purple color */
+}
+
+.btn-white:hover {
+  color: white;
+  background-color: #8a2be2; /* Purple color */
+}
+
+.introduction-image {
+  flex: 1;
+  text-align: center;
+}
+
+.introduction-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}

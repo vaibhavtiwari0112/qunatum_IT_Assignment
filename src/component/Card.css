@@ -1,0 +1,20 @@
+.border-gray {
+  border: 1px solid gray;
+}
+
+.card-title {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.card-text {
+  margin: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.small-card {
+  width: 200px; 
+  max-width: 100%;
+}

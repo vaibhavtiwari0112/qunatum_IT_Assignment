@@ -1,0 +1,19 @@
+.bg-dark-purple-gradient {
+  background: linear-gradient(
+    45deg,
+    #4b0082,
+    #2a003d
+  ); /* Darkest purple gradient */
+}
+
+.footer h5,
+.footer h7,
+.footer p {
+  margin-bottom: 10px;
+}
+
+h7 {
+  display: block;
+  font-size: 0.875rem; /* Adjust font size to be appropriate for h7 */
+  font-weight: bold; /* Make h7 bold to differentiate from normal text */
+}
